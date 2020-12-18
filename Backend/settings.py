@@ -30,6 +30,8 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 ALLOWED_HOSTS = []
 
+DISABLE_COLLECTSTATIC=1
+
 
 # Application definition
 
